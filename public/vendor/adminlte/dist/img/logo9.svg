@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3905.5654"
+   height="1516.187"
+   viewBox="0 0 2733.8958 1061.3309"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo9.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.086698231"
+     inkscape:cx="2324.1535"
+     inkscape:cy="1730.1391"
+     inkscape:window-width="1350"
+     inkscape:window-height="728"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g309142"
+     showguides="false"
+     width="3905.5654px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:lockguides="false"
+     lock-margins="true"
+     scale-x="0.6" />
+  <defs
+     id="defs2">
+    <rect
+       x="552.46155"
+       y="481.84616"
+       width="434.07693"
+       height="120.46154"
+       id="rect131955" />
+    <rect
+       x="525.46155"
+       y="257.53845"
+       width="386.30768"
+       height="41.538464"
+       id="rect18729" />
+    <rect
+       x="533.76923"
+       y="128.76923"
+       width="450.69229"
+       height="247.15385"
+       id="rect4587" />
+    <rect
+       x="533.76923"
+       y="128.76923"
+       width="450.69229"
+       height="247.15385"
+       id="rect4587-1" />
+    <filter
+       inkscape:label="Sharpen"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.15"
+       style="color-interpolation-filters:sRGB"
+       id="filter71216"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="0 -0.15 0 -0.15 1.6 -0.15 0 -0.15 0"
+         divisor="1"
+         in="SourceGraphic"
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix71214" />
+    </filter>
+    <rect
+       x="525.46155"
+       y="257.53845"
+       width="386.30768"
+       height="41.538464"
+       id="rect146341" />
+    <rect
+       x="533.76923"
+       y="128.76923"
+       width="450.69229"
+       height="247.15385"
+       id="rect146343" />
+    <rect
+       x="552.46155"
+       y="481.84616"
+       width="434.07693"
+       height="120.46154"
+       id="rect146345" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter159965"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="0.21 -6.98795 -3.91566 -5.96386 0 0.21 -6.98795 -3.91566 -5.96386 0 0.21 -6.98795 -3.91566 -5.96386 0 0 0 0 1 0 "
+         id="feColorMatrix159963" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-215.99578,-288.77034)">
+    <text
+       xml:space="preserve"
+       id="text18727"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18729);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       id="text131953"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect131955);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:label="Capa 1 copia"
+     inkscape:groupmode="layer"
+     id="g146339"
+     transform="translate(-215.99578,-288.77034)">
+    <text
+       xml:space="preserve"
+       id="text146321"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect146341);fill:#000000;fill-opacity:1;stroke:none" />
+    <g
+       id="g293832"
+       transform="matrix(1.1693641,0,0,1.0447028,-322.79128,-217.0223)">
+      <g
+         id="g308888"
+         transform="matrix(1.2459184,0,0,1.3079331,-69.71628,-152.08486)">
+        <g
+           id="g309142"
+           transform="matrix(0.66201717,0,0,0.66201717,303.31755,224.44305)">
+          <g
+             id="g293742"
+             transform="matrix(3.9703919,0,0,4.04352,-2829.28,-1716.5287)">
+            <text
+               xml:space="preserve"
+               id="text4585"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4587);mix-blend-mode:darken;fill:#ffe100;fill-opacity:1;stroke:none;filter:url(#filter71216)"
+               transform="matrix(2.932391,0,0,2.4574566,-803.78128,189.68329)"><tspan
+                 x="533.76953"
+                 y="193.08953"
+                 id="tspan1323"><tspan
+                   style="font-size:64px;font-family:'HP Simplified Jpan';-inkscape-font-specification:'HP Simplified Jpan, Normal'"
+                   id="tspan1321">ClickNow</tspan></tspan></text>
+            <text
+               xml:space="preserve"
+               id="text146327"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect146343);mix-blend-mode:darken;fill:#ffe100;fill-opacity:1;stroke:none;filter:url(#filter71216)"
+               transform="matrix(2.5577711,0,0,2.4574566,-566.1395,294.16427)"><tspan
+                 x="533.76953"
+                 y="193.08953"
+                 id="tspan1327"><tspan
+                   style="font-size:64px;font-family:'HP Simplified Jpan';-inkscape-font-specification:'HP Simplified Jpan, Normal';opacity:0.84"
+                   id="tspan1325">Solutions</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text146337"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect146345);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

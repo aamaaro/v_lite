@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logoOriginal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.48148148"
+     inkscape:cx="941.88462"
+     inkscape:cy="503.65385"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g146339"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <rect
+       x="552.46154"
+       y="481.84615"
+       width="434.07692"
+       height="120.46154"
+       id="rect131955" />
+    <rect
+       x="525.46154"
+       y="257.53846"
+       width="386.30769"
+       height="41.538462"
+       id="rect18729" />
+    <rect
+       x="533.76923"
+       y="128.76923"
+       width="450.6923"
+       height="247.15385"
+       id="rect4587" />
+    <rect
+       x="533.76923"
+       y="128.76923"
+       width="450.69229"
+       height="247.15385"
+       id="rect4587-1" />
+    <filter
+       inkscape:label="Sharpen"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.15"
+       style="color-interpolation-filters:sRGB;"
+       id="filter71216"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="0 -0.15 0 -0.15 1.6 -0.15 0 -0.15 0"
+         divisor="1"
+         in="SourceGraphic"
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix71214" />
+    </filter>
+    <rect
+       x="525.46154"
+       y="257.53846"
+       width="386.30769"
+       height="41.538462"
+       id="rect146341" />
+    <rect
+       x="533.76923"
+       y="128.76923"
+       width="450.6923"
+       height="247.15385"
+       id="rect146343" />
+    <rect
+       x="552.46154"
+       y="481.84615"
+       width="434.07692"
+       height="120.46154"
+       id="rect146345" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter159965"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="0.21 -6.98795 -3.91566 -5.96386 0 0.21 -6.98795 -3.91566 -5.96386 0 0.21 -6.98795 -3.91566 -5.96386 0 0 0 0 1 0 "
+         id="feColorMatrix159963" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text18727"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect18729)" />
+    <text
+       xml:space="preserve"
+       id="text131953"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect131955);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:label="Capa 1 copia"
+     inkscape:groupmode="layer"
+     id="g146339">
+    <text
+       xml:space="preserve"
+       id="text146321"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect146341)" />
+    <g
+       id="g218893"
+       transform="translate(54,-22)">
+      <text
+         xml:space="preserve"
+         id="text4585"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4587);fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter71216)"
+         transform="matrix(5.1970256,0,0,7.5237118,-2563.4135,-1024.9905)"><tspan
+           x="533.76953"
+           y="193.08953"
+           id="tspan253875"><tspan
+             style="font-size:64px;font-family:'HP Simplified Jpan';-inkscape-font-specification:'HP Simplified Jpan, Normal';fill:#7fba56"
+             id="tspan253873">Click Now</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text146327"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect146343);fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter71216)"
+         transform="matrix(4.9837672,0,0,7.5237118,-2378.2392,-732.1894)"><tspan
+           x="533.76953"
+           y="193.08953"
+           id="tspan253879"><tspan
+             style="font-size:64px;font-family:'HP Simplified Jpan';-inkscape-font-specification:'HP Simplified Jpan, Normal';fill:#7fba56"
+             id="tspan253877">Solutions</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:231.517px;line-height:1.25;font-family:sans-serif;mix-blend-mode:lighten;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.78786"
+         x="380.72775"
+         y="568.00934"
+         id="text146333"
+         transform="scale(0.58647703,1.7050966)"><tspan
+           sodipodi:role="line"
+           id="tspan146331"
+           x="380.72775"
+           y="568.00934"
+           style="fill:#c8c4b7;fill-opacity:1;stroke-width:5.78786"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:185.211px;font-family:Constantia;-inkscape-font-specification:'Constantia, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c8c4b7;fill-opacity:1;stroke-width:5.78786"
+   id="tspan146329">Creating new things for you</tspan>!</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text146337"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect146345);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

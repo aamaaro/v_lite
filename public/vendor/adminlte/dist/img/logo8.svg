@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1255.9694"
+   height="329.646"
+   viewBox="0 0 1255.9694 329.646"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo8.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.34114052"
+     inkscape:cx="643.42987"
+     inkscape:cy="215.45374"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g308888"
+     showguides="true"
+     fit-margin-top="5"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="39.4"
+     viewbox-x="80"
+     viewbox-y="0" />
+  <defs
+     id="defs2">
+    <rect
+       x="552.46155"
+       y="481.84616"
+       width="434.07693"
+       height="120.46154"
+       id="rect131955" />
+    <rect
+       x="525.46155"
+       y="257.53845"
+       width="386.30768"
+       height="41.538464"
+       id="rect18729" />
+    <rect
+       x="533.76923"
+       y="128.76923"
+       width="450.69229"
+       height="247.15385"
+       id="rect4587" />
+    <rect
+       x="533.76923"
+       y="128.76923"
+       width="450.69229"
+       height="247.15385"
+       id="rect4587-1" />
+    <filter
+       inkscape:label="Sharpen"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.15"
+       style="color-interpolation-filters:sRGB"
+       id="filter71216"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="0 -0.15 0 -0.15 1.6 -0.15 0 -0.15 0"
+         divisor="1"
+         in="SourceGraphic"
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix71214" />
+    </filter>
+    <rect
+       x="525.46155"
+       y="257.53845"
+       width="386.30768"
+       height="41.538464"
+       id="rect146341" />
+    <rect
+       x="533.76923"
+       y="128.76923"
+       width="450.69229"
+       height="247.15385"
+       id="rect146343" />
+    <rect
+       x="552.46155"
+       y="481.84616"
+       width="434.07693"
+       height="120.46154"
+       id="rect146345" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter159965"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="0.21 -6.98795 -3.91566 -5.96386 0 0.21 -6.98795 -3.91566 -5.96386 0 0.21 -6.98795 -3.91566 -5.96386 0 0 0 0 1 0 "
+         id="feColorMatrix159963" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-311.03166,-446.58166)">
+    <text
+       xml:space="preserve"
+       id="text18727"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18729);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       id="text131953"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect131955);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:label="Capa 1 copia"
+     inkscape:groupmode="layer"
+     id="g146339"
+     transform="translate(-311.03166,-446.58166)">
+    <text
+       xml:space="preserve"
+       id="text146321"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect146341);fill:#000000;fill-opacity:1;stroke:none" />
+    <g
+       id="g293832"
+       transform="matrix(1.1693641,0,0,1.0447028,-322.79128,-217.0223)">
+      <g
+         id="g308888"
+         transform="matrix(1.2459184,0,0,1.3079331,-69.71628,-152.08486)">
+        <g
+           id="g309142"
+           transform="matrix(0.66201717,0,0,0.66201717,303.31755,224.44305)"
+           style="fill:#00ffff">
+          <g
+             id="g293742"
+             transform="matrix(0.98191472,0,0,1,-18.88207,-89.285638)"
+             style="fill:#00ffff" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:300.972px;line-height:1.25;font-family:sans-serif;mix-blend-mode:lighten;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:7.52422"
+             x="-91.236191"
+             y="505.38031"
+             id="text146333"
+             transform="scale(0.58647703,1.7050966)"><tspan
+               sodipodi:role="line"
+               id="tspan146331"
+               x="-91.236191"
+               y="505.38031"
+               style="fill:#00ffff;fill-opacity:1;stroke-width:7.52422"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:240.774px;font-family:Constantia;-inkscape-font-specification:'Constantia, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;fill-opacity:1;stroke-width:7.52422"
+   id="tspan146329">Creating new things for you</tspan>!</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text146337"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect146345);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>
